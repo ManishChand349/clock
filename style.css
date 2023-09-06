@@ -154,6 +154,7 @@ html {
      color: #ebf7f7;
      font-size: 20px;
      font-weight: bolder;
+     cursor: pointer;
    }
    .digital-time{
      font-size: 35px;
